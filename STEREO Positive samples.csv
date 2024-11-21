@@ -1,0 +1,678 @@
+,Date,Spacecraft,Type_stereo,Source_stereo,Type_ipshock,Accept
+0,2007-01-14 19:35:08,STA,F,ICME,,0
+1,2007-01-14 20:01:27,STB,F,ICME,,0
+2,2007-02-12 08:10:06,STA,F,"data gap, probably a SIR",,0
+3,2007-02-12 08:39:13,STA,F,"data gap, probably a SIR",,0
+4,2007-04-09 02:01:21,STB,,,FF,0
+5,2007-04-21 18:59:15,STA,F,SIR,FF,1
+6,2007-04-22 06:09:27,STB,F,SIR,,0
+7,2007-04-23 06:53:44,STA,R,SIR,FR,1
+8,2007-04-23 13:21:10,STB,developing R_ with waves,SIR,,0
+9,2007-04-27 23:31:20,STA,,,FR,0
+10,2007-04-28 13:05:00,STB,,,FR,0
+11,2007-05-07 08:11:54,STA,F,SIR,FF,1
+12,2007-05-07 09:42:49,STB,F_ downstream waves_ clear plasma signatures_ 1 minute away from a current sheet,SIR,FF,1
+13,2007-05-08 14:12:00,STB,,,FR,0
+14,2007-05-17 21:23:19,STB,F,SIR,,0
+15,2007-05-18 16:28:58,STB,,,FR,0
+16,2007-05-22 01:59:45,STA,,,FF,0
+17,2007-05-22 17:29:52,STB,F,middle ICME,FF,1
+18,2007-06-09 13:15:50,STA,F,small SIR-like structure,,0
+19,2007-06-10 12:55:35,STA,R,small SIR-like structure,FR,1
+20,2007-07-04 22:09:40,STA,R_ not very sharp B change,SIR,,0
+21,2007-07-10 16:45:25,STB,,,FF,0
+22,2007-07-11 07:44:44,STB,R,SIR,FR,1
+23,2007-07-11 20:22:25,STA,R,SIR,FR,1
+24,2007-07-13 22:00:30,STB,F,SIR,FF,1
+25,2007-07-20 01:22:15,STB,F,SIR,FF,1
+26,2007-08-06 22:08:15,STB,,,FR,0
+27,2007-08-10 16:39:10,STB,R,fast wind (~570 km/s) overtaking a SIR-like structure,FR,1
+28,2007-08-14 16:31:04,STB,F,SIR,,0
+29,2007-08-20 06:58:34,STA,,,FR,0
+30,2007-08-24 14:16:33,STB,F,SIR,FF,1
+31,2007-08-25 20:30:01,STA,F,ICME+SIR,FF,1
+32,2007-09-02 00:09:16,STB,R,SIR,FR,1
+33,2007-09-13 18:34:19,STB,F,"like a SIR including ICME, but the flux rope is not nice and the Vp is flat and slow",,0
+34,2007-09-15 01:54:34,STA,F,SIR,,0
+35,2007-09-15 15:35:03,STA,R,SIR,FR,1
+36,2007-09-19 18:15:03,STB,F,SIR,FF,1
+37,2007-09-23 11:31:58,STA,R,SIR,FR,1
+38,2007-09-28 05:53:27,STB,R,SIR,FR,1
+39,2007-09-29 07:54:21,STB,,,FR,0
+40,2007-09-30 11:09:06,STA,R,SIR,FR,1
+41,2007-10-18 16:46:12,STA,F,SIR,,0
+42,2007-10-25 11:06:09,STB,,,FR,0
+43,2007-11-09 00:10:08,STB,F,SIR-like structure with concave Pt profile,FF,1
+44,2007-11-19 13:49:36,STB,F,SIR including an ICME,FF,1
+45,2007-12-08 23:02:02,STB,F,SIR,,0
+46,2007-12-16 00:16:33,STB,weak F,SIR,,0
+47,2007-12-19 06:18:20,STB,,,FR,0
+48,2008-01-08 01:48:30,STA,R,SIR,,0
+49,2008-02-07 14:35:23,STB,,,FF,0
+50,2008-02-09 18:42:07,STB,R,SIR,FR,1
+51,2008-02-29 22:51:02,STA,F,SIR,,0
+52,2008-03-07 00:14:24,STB,,,FR,0
+53,2008-03-08 18:16:32,STA,F,SIR,,0
+54,2008-03-09 19:50:07,STA,R,SIR,FR,1
+55,2008-03-29 18:12:58,STA,R,SIR,,0
+56,2008-04-04 07:41:44,STB,R,SIR,FR,1
+57,2008-04-08 07:34:40,STA,R,SIR,,0
+58,2008-04-22 20:30:56,STB,,,FR,0
+59,2008-04-24 13:06:55,STA,F,SIR,FF,1
+60,2008-04-29 14:10:08,STB,F,ICME,FF,1
+61,2008-05-11 06:31:09,STA,F,ICME,,0
+62,2008-05-19 09:18:42,STA,F_ strong upstream waves,in slow wind,,0
+63,2008-05-19 16:39:13,STB,,,FF,0
+64,2008-05-19 19:59:10,STB,,,FR,0
+65,2008-05-21 00:41:35,STA,F,SIR,,0
+66,2008-05-28 01:56:16,STB,,,FR,0
+67,2008-06-06 15:35:46,STB,F,ICME,FF,1
+68,2008-06-12 21:35:20,STB,F,SIR,FF,1
+69,2008-07-05 00:47:53,STA,F,ICME,FF,1
+70,2008-07-19 07:28:18,STB,F,SIR,FF,1
+71,2008-07-20 22:27:38,STB,F,SIR,FF,1
+72,2008-07-21 10:30:40,STB,R_ gradual variation of B,SIR,FR,1
+73,2008-08-06 21:17:40,STB,F,SIR,FF,1
+74,2008-08-16 01:16:01,STB,F,SIR,,0
+75,2008-09-16 13:49:29,STA,F,SIR,FF,1
+76,2008-09-17 08:08:21,STA,R,SIR,,0
+77,2008-09-29 13:08:02,STB,R_ little change of Tp,SIR,FR,1
+78,2008-09-30 22:20:37,STB,R_ plasma signatures,in fast wind,FR,1
+79,2008-10-12 17:12:56,STA,F,SIR,FF,1
+80,2008-10-26 17:17:21,STA,F,"in slow wind, a small speed increase, Tp decreases a little",FF,1
+81,2008-10-31 03:24:55,STA,F,"SIR, 9 hr before ICME",FF,1
+82,2008-11-01 07:59:17,STA,R_ Vp increase is not sharp,SIR,,0
+83,2008-11-09 00:38:46,STA,F,SIR,FF,1
+84,2008-11-21 21:16:58,STB,F,SIR,,0
+85,2008-11-22 22:20:28,STA,,,FF,0
+86,2008-11-28 16:44:26,STA,F_ strong plasma signatures_ upstream and downstream waves,"SIR, 5 hr before ICME?",FF,1
+87,2008-11-30 18:22:49,STB,,,FF,0
+88,2008-12-06 05:42:30,STA,F,SIR,FF,1
+89,2008-12-07 04:35:30,STB,F,SIR,,0
+90,2008-12-15 02:12:22,STB,F,"in slow wind ~ 300 km/s, a small SIR-like structure",,0
+91,2008-12-25 09:45:08,STA,F,"in slow wind, a small SIR-like structure",,0
+92,2009-01-02 20:08:00,STA,,,FF,0
+93,2009-01-25 18:22:52,STA,F_ downstream waves,ICME,FF,1
+94,2009-01-31 08:32:19,STA,,,FF,0
+95,2009-02-11 10:20:58,STB,R_ upstream waves,SIR,FR,1
+96,2009-02-13 10:20:58,STA,F,"slow wind, a small Vp increase, Tp is constant",,0
+97,2009-02-14 17:56:00,STA,,,FF,0
+98,2009-02-18 01:54:56,STA,R_ downstream waves,SIR,FR,1
+99,2009-02-22 12:12:14,STB,F,"in slow wind, 1.5 days before SIR",FF,1
+100,2009-03-09 20:17:19,STA,F_ downstream waves,SIR,FF,1
+101,2009-03-10 14:47:34,STB,R_ upstream and downstream waves,SIR,FR,1
+102,2009-03-14 09:46:30,STB,F_ many waves,a sharp bump in slow wind,FF,1
+103,2009-03-24 18:42:17,STB,R_ downstream waves,SIR,,0
+104,2009-04-27 21:42:22,STA,F,a small bump in slow wind ~ 300 km/s,,0
+105,2009-06-03 17:07:44,STA,F,ICME,FF,1
+106,2009-06-05 09:29:49,STB,F,SIR,,0
+107,2009-06-19 00:23:34,STB,F,ICME,,0
+108,2009-06-30 05:14:45,STA,R,SIR,FR,1
+109,2009-07-18 11:35:15,STB,F,SIR,FF,1
+110,2009-07-19 02:08:36,STB,R_ upstream waves,SIR,FR,1
+111,2009-07-26 14:42:05,STA,F,SIR,,0
+112,2009-08-02 16:33:46,STB,,,FF,0
+113,2009-08-05 22:35:17,STB,F,ICME,FF,1
+114,2009-08-07 05:24:29,STB,R,fast wind (510 km/s) overtaking ICME,FR,1
+115,2009-08-30 02:49:50,STB,F,ICME,FF,1
+116,2009-08-31 03:40:46,STB,F_ weak downstream wave,a sharp and high bump in ICME,FF,1
+117,2009-09-01 11:30:39,STA,,,FF,0
+118,2009-09-08 05:30:54,STA,F,SIR,FF,1
+119,2009-10-02 15:43:50,STB,F_ plasma signatures_ upstream and downstream waves,ICME,FF,1
+120,2009-10-04 17:46:47,STB,R,faster wind (~320 km/s) overtaking ICME,,0
+121,2009-10-16 14:56:55,STA,F,ICME,FF,1
+122,2009-10-26 11:27:33,STB,F,SIR,FF,1
+123,2009-11-03 01:07:55,STB,F_ upstream waves,SIR,,0
+124,2009-11-08 15:54:23,STB,F_ upstream waves,a bump in slow wind ~ 330 km/s,FF,1
+125,2009-11-26 16:18:56,STB,F_ upstream and downstream waves,"a SIR-like structure including ICME, Vp does not increase monotonically ",,0
+126,2009-11-26 23:06:27,STA,F_ weak plasma signatures_ upstream waves,"in slow wind, 12 hrs after SIR",,0
+127,2009-12-01 04:09:10,STA,R_ clear plasma signatures ,SIR,,0
+128,2009-12-08 23:37:45,STA,F_ clear plasma signatures_ downstream waves ,ICME,,0
+129,2009-12-13 19:50:14,STB,R_ clear plasma signatures,SIR,FR,1
+130,2009-12-14 06:08:59,STA,F_ clear plasma signatures except no Tp increase_ strong upstream and downstream waves,a small Vp increase in slow wind < 300 km/s,,0
+131,2009-12-22 23:51:15,STA,R_ weak plasma signatures_ not a neat B rise,SIR,FR,1
+132,2009-12-24 16:17:12,STA,,,FF,0
+133,2009-12-31 12:52:31,STA,F_ clear plasma signatures_ upstream waves,SIR,,0
+134,2010-02-05 03:33:13,STA,F_ clear plasma signatures_ upstream and downstream waves,ICME+SIR,FF,1
+135,2010-02-12 12:43:04,STA,,,FF,0
+136,2010-02-13 11:52:15,STB,F_ downstream waves_ plasma signatures,SIR,,0
+137,2010-02-14 07:49:55,STB,R_ upstream waves last short_ downstream waves last long_ Tp does not decrease,SIR,FR,1
+138,2010-02-15 04:41:31,STA,F_ clear plasma signatures_ downstream waves ,"~ 2 days after a SIR, a bump in slow wind",FF,1
+139,2010-02-28 19:49:55,STB,F_ upstream waves_ clear plasma signatures,"in slow wind, 22 hrs before SIR",FF,1
+140,2010-03-04 03:51:39,STB,,,FF,0
+141,2010-03-05 02:57:25,STA,,,FF,0
+142,2010-03-09 04:17:17,STB,F_ B increases gradually; plasma signatures are clear,a bump in the slow wind (360 km/s),,0
+143,2010-03-11 08:49:24,STB,R_ downstream waves_ plasma signatures,SIR,FR,1
+144,2010-03-11 19:09:23,STA,F_ plasma signatures except slow Tp increase_ upstream waves,SIR,FF,1
+145,2010-03-12 08:11:23,STA,,,FR,0
+146,2010-03-15 13:39:26,STA,F_ plasma signatures,a big bump in fast wind ~ 700 km/s,FF,1
+147,2010-03-20 10:51:22,STB,R_ many upstream waves,SIR,,0
+148,2010-04-04 01:10:04,STA,F_ upstream and downstream waves_ clear plasma signatures,SIR,FF,1
+149,2010-04-04 13:20:41,STA,,,FR,0
+150,2010-04-23 00:34:36,STA,F_ plasma signatures except no Tp increase_ downstream waves,ICME,FF,1
+151,2010-04-26 15:02:50,STB,F_ waves at the foot,"a small bump in the slow wind (300 km/s), 20 hrs before SIR",,0
+152,2010-04-27 20:06:02,STB,,,FR,0
+153,2010-05-08 09:24:07,STA,R_ weak plasma signatures_ downstream waves,SIR,FR,1
+154,2010-05-15 01:19:02,STB,F_ waves at the shock,SIR,FF,1
+155,2010-05-30 14:59:19,STA,F_ plasma signatures_ upstream waves,ICME,FF,1
+156,2010-06-02 20:46:30,STB,R_ clear plasma signatures_ upstream waves,SIR,FR,1
+157,2010-06-03 08:36:28,STA,F_ downstream waves_ plasma signatures,ICME,FF,1
+158,2010-06-05 07:30:10,STA,R_ downstream waves_ plasma signatures,SIR,FR,1
+159,2010-06-07 04:08:48,STB,F_ nice,ICME,FF,1
+160,2010-06-11 04:41:28,STB,F_ upstream and downstream waves,SIR,FF,1
+161,2010-06-12 04:59:20,STB,R_ clear plasma signatures,SIR,FR,1
+162,2010-06-15 11:35:00,STA,,,FR,0
+163,2010-06-30 05:45:00,STB,F_ clear plasma signatures_ upstream and downstream waves,a sharp bump in slow wind ~ 400 km/s,FF,1
+164,2010-07-08 16:42:10,STB,F,SIR,,0
+165,2010-08-02 15:31:00,STB,F_ upstream and downstream waves,13 hrs before ICME,FF,1
+166,2010-08-03 05:00:54,STB,F_ nice and strong_ downstream waves,ICME,FF,1
+167,2010-08-04 07:09:21,STB,R,fast wind overtaking ICME,FR,1
+168,2010-08-11 09:31:47,STB,F_ a lot of B flucations downstream,SIR,FF,1
+169,2010-08-12 05:48:24,STA,,,FR,0
+170,2010-08-20 10:27:57,STB,R_ downstream waves_ plasma signatures,SIR,FR,1
+171,2010-08-20 16:13:39,STA,F_ upstream and downstream waves_ clear plasma signatures,ICME,FF,1
+172,2010-08-21 16:57:26,STA,R_ upstream waves_ weak plasma signatures,"3 hrs after an ICME, a faster solar wind overtaking the ICME",,0
+173,2010-08-21 20:16:47,STB,,,FR,0
+174,2010-09-07 08:29:06,STA,F_ upstream and downstream waves_ plasma signatures,ICME,FF,1
+175,2010-09-10 18:17:58,STA,,,FF,0
+176,2010-09-11 06:58:47,STA,F_ upstream and downstream waves_ plasma signatures,ICME,FF,1
+177,2010-09-12 05:26:45,STB,F_ upstream waves last long,SIR,,0
+178,2010-09-15 07:18:04,STB,F,"in slow wind, > 1 day of ICME",,0
+179,2010-09-17 22:33:43,STA,F_ upstream waves_ plasma signatures,ICME,FF,1
+180,2010-09-26 22:17:48,STB,,,FF,0
+181,2010-09-28 07:16:37,STB,F_ B increases gradually; plasma signatures are clear; Vp increase is weak,a small bump in the slow wind (300 km/s),,0
+182,2010-10-02 15:06:58,STA,,,FF,0
+183,2010-10-31 10:04:13,STA,R_ upstream and downstream waves_ plasma signatures,SIR,FR,1
+184,2010-11-07 19:05:05,STB,F_ downstream waves_ plasma signatures,SIR including an ICME,FF,1
+185,2010-11-07 19:52:16,STB,,,FF,0
+186,2010-11-16 19:25:53,STA,R_ downstream waves_ weak plasma signatures,SIR,FR,1
+187,2010-11-19 20:26:00,STB,F_ upstream waves,ICME,FF,1
+188,2010-12-04 00:10:21,STA,F_ upstream and downstream waves_ plasma signatures,SIR,FF,1
+189,2010-12-14 17:15:32,STA,F_ downstream waves_ weak plasma signatures,ICME,FF,1
+190,2010-12-29 11:24:11,STB,F_ plasma signatures,SIR,FF,1
+191,2010-12-31 18:59:32,STB,,,FR,0
+192,2011-01-12 22:36:35,STB,F_ downstream waves_ small Vp and Np increase_ no Tp increase,a small bump in the slow wind (320 km/s),FF,1
+193,2011-01-17 15:46:06,STB,F_ plasma parameters increases are not prompt,ICME,FF,1
+194,2011-01-17 18:31:00,STA,R_ waves in the transition region,"8 hrs after an ICME, caused by a fast wind ~ 530 km/s",FR,1
+195,2011-01-23 17:06:03,STA,F_ upstream waves_ Vp and Np increase_ but Tp does not increase promptly,SIR,FF,1
+196,2011-01-25 00:06:27,STA,R_ upstream waves (not sure of the origin)_ ICWs upstream_ field change is not very sharp_ changes of plasma parameters are not abrupt ,SIR,,0
+197,2011-02-18 17:43:00,STA,F_ large-amplitude upstream waves of fs/c ~ 1.4 Hz_ increases of plasma parameters are small,a small Vp increase in slow wind ~ 350 km/s,,0
+198,2011-02-26 08:29:19,STB,,,FF,0
+199,2011-02-26 08:46:56,STB,,,FF,0
+200,2011-03-06 13:38:03,STB,F_ upstream and downstream waves_ small increases of Vp and Np_ no increase of Tp,"a small bump in slow wind, 18 hrs before ICME",,0
+201,2011-03-07 08:31:50,STB,F_ upstream waves_ clear plasma signatures,ICME,,0
+202,2011-03-07 12:22:46,STB,F_ upstream and downstream waves_ prompt plasma signatures,ICME,FF,1
+203,2011-03-09 06:47:40,STA,F_ no upstream or downstream waves_ clear plasma signatures,ICME,FF,1
+204,2011-03-11 03:51:38,STB,,,FF,0
+205,2011-03-19 11:24:39,STA,F_ upstream and downstream waves_ prominent plasma signatures,ICME,FF,1
+206,2011-03-20 15:46:00,STB,,,FF,0
+207,2011-03-20 17:17:24,STB,F_ increases of Vp and Np_ no increase of Tp,ICME,,0
+208,2011-03-21 18:42:09,STB,F_ increase of Vp_ a small and transient increase of Tp_ sharp rise of B_ weak upstream waves,within ICME,FF,1
+209,2011-03-22 03:57:37,STA,F_ large-amplitude upstream waves of fs/c ~ 1.5 Hz_ clear plasma parameters,ICME,FF,1
+210,2011-03-22 18:21:06,STA,F_ strong field increase_ clear Vp_ Np_ Tp increases_ but there are holes of Np and Tp before it,ICME,FF,1
+211,2011-03-28 08:53:45,STB,,,FF,0
+212,2011-03-31 12:37:10,STA,R_ plasma signatures_ low frequency upstream waves_ a dip in B downstream_ bidirectional suprathermal electron flux upstream,SIR,FR,1
+213,2011-03-31 23:38:51,STB,,,FF,0
+214,2011-04-09 13:39:33,STA,R_ no upstream or downstream waves_ plasma data gap,"data gap, probably a SIR",,0
+215,2011-04-11 12:08:00,STA,F_ downstream waves_ clear plasma signatures_ Vp increase lasts < 1hr,ICME,FF,1
+216,2011-04-22 10:59:16,STA,F_ upstream and downstream waves_ weak plasma signatures,"just after an ICME, a faster solar wind",,0
+217,2011-04-23 01:21:57,STB,F_ upstream waves_ B increases over 20 seconds_ small increases of Vp_ Np_ and Tp,11 hrs before SIR,,0
+218,2011-04-24 11:07:21,STB,R_ upstream and downstream waves_ plasma data gap,SIR,FR,1
+219,2011-05-07 11:32:53,STA,R_ clear plasma signatures_ sharp B decrease_ there are current sheets near the shock though,SIR,FR,1
+220,2011-05-12 04:45:07,STB,F_ upstream and downstream waves_ clear plasma signatures,a sharp bump in the trailing part of fast wind ~ 450 km/s,FF,1
+221,2011-06-01 07:25:26,STB,,,FF,0
+222,2011-06-04 18:48:50,STA,R_ clear plasma signatures_ B decrease takes 2.5 seconds,SIR,FR,1
+223,2011-06-05 18:59:00,STA,F_ clear plasma signatures,ICME,FF,1
+224,2011-06-09 09:50:10,STB,F_ upstream waves of fs/c ~ 0.6 Hz_ small increases of Vp and Np_ Tp does not increase ,a small bump in the trailing part of fast wind ~ 450 km/s,,0
+225,2011-06-09 22:40:53,STA,F_ weak plasma signatures_ upstream waves_ increase of suprathermal electron flux,SIR,,0
+226,2011-06-10 06:42:59,STA,,,FF,0
+227,2011-06-12 00:02:24,STA,R_ weak plasma signatures_ two B decreases separated by 16 s_ this is the 2nd one to match the time of plasma data,SIR,,0
+228,2011-06-16 03:10:22,STA,F_ abrupt plasma changes_ upstream and downstream waves,SIR,FF,1
+229,2011-06-16 19:36:23,STB,F_ small B increase_ clear plasma signatures,SIR,,0
+230,2011-06-16 21:00:40,STB,,,FF,0
+231,2011-06-17 02:12:23,STB,R_ downstream waves_ plasma signatures,SIR,FR,1
+232,2011-06-18 13:49:10,STB,R_ upstream waves,fast wind catching up with an ICME,FR,1
+233,2011-07-04 23:12:10,STB,F_ waves at the transition region,SIR-like small structure,FF,1
+234,2011-07-12 03:47:04,STA,F_ abrupt plasma changes_ downstream waves_ a dip of B in 4 minutes ,ICME,FF,1
+235,2011-07-19 18:45:57,STB,F_ sharp_ nice plasma signatures,SIR,FF,1
+236,2011-07-23 09:41:09,STA,F_ clear plasma signatures_ upstream and downstream waves_ B decreased in 40 min,ICME,FF,1
+237,2011-07-24 22:36:05,STA,R_ plasma signatures_ waves in upstream_ downstream_ and ramp,"11 hrs after ICME, faster solar wind of only about 440 km/s",FR,1
+238,2011-08-06 12:42:39,STA,F,ICME,FF,1
+239,2011-08-09 13:58:26,STB,,,FR,0
+240,2011-08-11 05:38:57,STA,F,"unclear driver, because of DG",FF,1
+241,2011-08-13 19:43:20,STA,F,ICME,FF,1
+242,2011-08-20 21:51:46,STB,F_ nice upstream waves_ Tp decreases to pre-shock level after 10 min,ICME,FF,1
+243,2011-08-27 02:03:36,STB,F_ weak_ downstream waves_ small Vp and Np increases_ Tp does not increase at the time,SIR,,0
+244,2011-09-04 12:38:03,STB,F_ upstream whistler waves_ weak plasma signatures_ no Tp increase,6.5 hr before SIR,,0
+245,2011-09-08 16:01:27,STA,F,ICME,FF,1
+246,2011-09-08 23:45:02,STA,,,FF,0
+247,2011-09-11 08:51:29,STA,F,faster wind overtaking preceding ICME,FF,1
+248,2011-09-14 22:06:27,STB,,,FF,0
+249,2011-09-19 13:35:47,STA,,,FF,0
+250,2011-09-21 01:26:55,STB,F_ very close to another shock,SIR+ICME,,0
+251,2011-09-21 01:27:12,STB,F_ weak plasma signatures_ 2 B increases 17-s separated,SIR+ICME,FF,1
+252,2011-09-21 22:35:45,STA,F,"unclear driver, in the trailing part of a SIR, followed by a faster wind although of only 400 km/s",,0
+253,2011-09-24 08:30:40,STA,F,ICME,FF,1
+254,2011-09-24 09:06:10,STB,F_ waves upstream and downstream_ gradual B increase_ weak plasma signatures_ no Tp increase,ICME,FF,1
+255,2011-09-28 03:54:29,STA,F,SIR,FF,1
+256,2011-10-02 06:53:15,STA,F,ICME,FF,1
+257,2011-10-03 02:28:25,STA,F,ICME,FF,1
+258,2011-10-03 11:48:17,STB,F_ plasma signatures_ upstream and downstream waves_ gradual B increase_ and close to a currrent sheet ,"ICME, but over 10 hrs ahead",,0
+259,2011-10-03 22:23:25,STB,F_ prominent plasma signatures_ upstream and downstream waves_ current sheets near by ,ICME,FF,1
+260,2011-10-06 03:55:07,STA,F,in slow wind,FF,1
+261,2011-10-07 11:26:41,STB,F_ clear plasma signatures_ upstream waves of about 2 Hz,ICME,FF,1
+262,2011-10-07 17:15:23,STA,F,SIR,,0
+263,2011-10-18 02:03:10,STB,,,FF,0
+264,2011-10-18 19:20:10,STB,F_ clear plasma signatures_ upstream and downstream waves,ICME,FF,1
+265,2011-10-23 20:59:00,STA,F,in slow wind,FF,1
+266,2011-10-25 04:51:14,STA,F,ICME,FF,1
+267,2011-11-01 02:19:55,STB,R_ small changes of plasma parameters_ gradual B decrease_ some upstream waves,"a faster wind overtaking, half a day after ICME",FR,1
+268,2011-11-02 22:07:39,STB,F_ clear plasma signatures_ sharp B change_ upstream and downstream waves,in the slow wind,FF,1
+269,2011-11-05 21:12:09,STA,F,SIR,FF,1
+270,2011-11-06 05:10:45,STB,F_ plasma signatures_ upstream and downstream waves_ gradual B increase_ and close to a currrent sheet ,ICME,FF,1
+271,2011-11-06 12:35:14,STA,R,SIR,FR,1
+272,2011-11-13 00:47:48,STB,,,FF,0
+273,2011-11-17 02:03:15,STB,F_ plasma signatures_ after 8 min of the shock_ B increases and there is a current sheet,"in slow wind, >3 days ahead of ICME",FF,1
+274,2011-11-18 03:29:43,STB,F_ plasma signatures although they are small changes_ B increase is sharp_ B decreases after 20 minutes ,"in slow wind, >2 days ahead of ICME",,0
+275,2011-11-19 07:42:41,STB,F_ prominent plasma signatures_ upstream and downstream waves_ a small current sheet crossing at the shock,>1 day ahead of ICME,FF,1
+276,2011-11-20 13:38:42,STB,F_ prominent plasma signatures_ nice downstream waves ,ICME,FF,1
+277,2011-11-20 21:50:23,STA,R,SIR,FR,1
+278,2011-11-23 17:35:05,STA,R,SIR,FR,1
+279,2011-11-25 21:39:03,STA,F,ICME,FF,1
+280,2011-11-26 18:09:24,STA,F,ICME,FF,1
+281,2011-11-28 09:09:15,STA,,,FF,0
+282,2011-11-28 14:51:25,STA,F,ICME,FF,1
+283,2011-12-02 16:03:59,STB,F_ prominent plasma signatures_ upstream and downstream waves,ICME,FF,1
+284,2011-12-06 22:43:30,STA,,,FF,0
+285,2011-12-08 00:37:58,STA,,,FF,0
+286,2011-12-12 03:47:21,STA,R,SIR,,0
+287,2011-12-13 04:52:19,STB,R_ clear plasma signatures_ upstream and downstream waves,SIR,FR,1
+288,2011-12-17 02:05:07,STA,F,SIR,FF,1
+289,2011-12-19 17:27:36,STA,,,FF,0
+290,2011-12-21 00:30:00,STA,R,SIR,FR,1
+291,2011-12-21 09:27:28,STA,F,ICME,FF,1
+292,2011-12-26 23:50:46,STB,F_ clear plasma signatures_ short upstream and downstream waves,ICME+SIR,,0
+293,2011-12-28 01:28:46,STA,F,SIR,FF,1
+294,2011-12-28 20:47:09,STA,R,SIR,FR,1
+295,2012-01-01 13:22:21,STA,F,ICME,FF,1
+296,2012-01-04 16:40:40,STA,F_ weak plasma signatures,SIR (embedded ICME starts 29 hr after the shock),FF,1
+297,2012-01-06 12:13:14,STB,F_ plasma signatures_ large-amplitude waves upstream and at the ramp,SIR,,0
+298,2012-01-16 09:49:15,STB,F_ prominent plasma signatures_ a B dip after the ramp,ICME,FF,1
+299,2012-01-19 01:46:01,STB,F_ plasma signatures_ weak upstream waves_ strong downstream waves,ICME,FF,1
+300,2012-01-23 01:07:00,STA,F,SIR,FF,1
+301,2012-01-29 02:13:36,STA,F,ICME,FF,1
+302,2012-01-29 05:48:40,STA,,,FF,0
+303,2012-01-29 13:04:18,STA,F,ICME,FF,1
+304,2012-01-30 11:07:52,STB,F_ plasma signatures except little Tp increase,ICME,FF,1
+305,2012-02-03 05:46:37,STB,F_ plasma signatures_ sharp B increase_ downstream waves,SIR,FF,1
+306,2012-02-03 15:20:48,STB,R_ plasma signatures except nearly constant Tp with a data spike_ B decrease is gradual_ change in suparthermal electron flux too,SIR,FR,1
+307,2012-02-08 18:09:36,STB,F_ plasma signatures except no Tp increase_ B increase is gradual_ clear change in suprathermal electron flux,20 hrs ahead of SIR,FF,1
+308,2012-02-19 20:52:04,STA,F,in slow wind,FF,1
+309,2012-02-20 10:27:40,STB,F_ weak plasma signatures_ B increase is gradual,SIR,,0
+310,2012-02-20 19:17:48,STA,F,"SIR+ICME (ICME embedded, 10 hr after the shock)",FF,1
+311,2012-02-28 23:20:13,STA,R,SIR,FR,1
+312,2012-03-01 20:24:55,STA,,,FF,0
+313,2012-03-07 18:14:00,STB,F_ plasma signatures_ change in suprathermal electron flux_ strong upstream waves last long_ probably whistlers,SIR,FF,1
+314,2012-03-07 18:25:36,STB,,,FF,0
+315,2012-03-08 13:36:43,STB,F_ prominent plasma signatures_ strong waves at the ramp,ICME,,0
+316,2012-03-10 21:17:12,STB,F_ prominent plasma signatures_ change of suprathermal electron flux_ B dip in 10 min_ waves at ramp and downstream ,ICME,FF,1
+317,2012-03-14 06:51:37,STA,F,SIR,FF,1
+318,2012-03-15 22:32:31,STA,F,ICME,FF,1
+319,2012-03-18 15:03:40,STA,F_ weak plasma signatures,ICME,,0
+320,2012-03-18 19:30:46,STA,F,ICME,FF,1
+321,2012-03-19 19:17:44,STA,F,ICME,FF,1
+322,2012-03-23 10:14:42,STA,F_ Vp and Tp do not have clear increases_ slight Np increase_ prominent B increase,in the trailing part of fast wind,,0
+323,2012-03-23 19:07:15,STA,F,in slow wind V ~ 400 km/s,FF,1
+324,2012-03-26 09:59:34,STA,F,in fast wind V ~ 450 km/s,FF,1
+325,2012-03-26 16:30:30,STB,F_ prominent plasma signatures,ICME,FF,1
+326,2012-03-28 21:37:32,STB,F_ plasma data changes are gradual_ sharp increase of suprathermal electron flux_ downstream waves,ICME,FF,1
+327,2012-03-30 08:27:33,STB,,,FR,0
+328,2012-04-03 20:47:13,STA,F_ mirror mode storms 7 min after the shock,15 hr before the start of a SIR,,0
+329,2012-04-04 10:40:11,STA,F,SIR,,0
+330,2012-04-11 07:23:18,STA,,,FF,0
+331,2012-04-11 18:59:55,STB,,,FF,0
+332,2012-04-16 04:53:38,STB,,,FR,0
+333,2012-04-17 03:36:38,STB,F_ prominent plasma signatures_ change of suprathermal electron flux_ upstream and downstream waves,ICME,FF,1
+334,2012-04-18 11:01:00,STB,F_ weak plasma signatures_ B increase is gradual_ waves at the ramp,"in fast wind, after ICME, no clear driver",FF,1
+335,2012-04-19 05:18:48,STB,F_ plasma signatures_ Np decreases in 20 min_ a short B dip downstream,a jump in the trailing part of fast wind,FF,1
+336,2012-05-07 01:06:58,STB,F_ clear plasma signatures_ increase of suprathermal electron flux_ sharp B increase,"SIR with an ICME embedded, the ICME starts more than one day after the shock",FF,1
+337,2012-05-07 03:33:42,STB,F_ prominent plasma signatures_ 2 hrs after the previous shock_ enhanced suprathermal electron flux_ upstream and downstream waves,"SIR with an ICME embedded, the ICME starts more than one day after the shock",FF,1
+338,2012-05-08 07:21:03,STB,,,FF,0
+339,2012-05-08 14:55:13,STB,F_ prominent plasma signatures_ upstream waves,ICME embedded within a SIR,,0
+340,2012-05-08 14:55:18,STB,F_ downstream waves_ 5 s after the previous f.s. ,ICME embedded within a SIR,FF,1
+341,2012-05-12 23:08:30,STB,F_ plasma signatures_ nice upstream and downstream waves,ICME,FF,1
+342,2012-05-18 12:43:18,STA,F,ICME,FF,1
+343,2012-05-20 12:14:45,STB,F_ plasma signatures_ whistlers upstream and at the ramp,in the middle of SIR,FF,1
+344,2012-05-24 01:00:21,STA,F,ICME,FF,1
+345,2012-05-28 02:48:40,STA,F,ICME,FF,1
+346,2012-05-28 19:53:47,STA,R,"trailing edge of ICME, probably due to overtaking of the following fast wind",,0
+347,2012-06-05 14:17:49,STA,F_ weak,in slow wind,,0
+348,2012-06-11 21:06:27,STB,F_ plasma signatures_ upstream and downstream waves,ICME,FF,1
+349,2012-06-12 20:38:00,STA,,,FF,0
+350,2012-06-17 20:20:32,STB,,,FF,0
+351,2012-06-25 20:55:59,STA,F,ICME,FF,1
+352,2012-06-27 12:40:24,STB,F_ plasma signatures_ upstream and downstream waves,SIR,FF,1
+353,2012-06-27 19:03:20,STB,R_ weak plasma signatures_ waves at the ramp,SIR,,0
+354,2012-06-30 12:39:33,STA,F,in slow wind,FF,1
+355,2012-07-04 06:56:37,STB,F_ prominent plasma signatures_ short downstream waves,ICME,FF,1
+356,2012-07-08 18:42:35,STA,F,SIR,,0
+357,2012-07-09 02:33:26,STA,F,SIR,FF,1
+358,2012-07-10 18:55:15,STA,F,ICME,FF,1
+359,2012-07-11 09:09:36,STA,,,FF,0
+360,2012-07-20 06:00:58,STA,F,SIR,FF,1
+361,2012-07-20 22:43:11,STA,F,ICME,FF,1
+362,2012-07-23 20:55:25,STA,F_ questionable_ a shock attempts to form_ Vp increases_ avoided a short-lived B enhancement ahead_ coincides with current sheet_ a lot of large-amplitude fluctuations downstream,ICME,,0
+363,2012-07-23 21:21:01,STB,F_ prominent plasma signatures_ B increase is gradual_ no significant change of suprathermal electron flux,ICME,FF,1
+364,2012-07-28 14:58:41,STB,F_ plasma signatures except little Tp increase_ small current sheet near the shock,ICME,FF,1
+365,2012-08-01 16:51:53,STA,F_ weak,SIR,,0
+366,2012-08-03 03:15:18,STA,R,SIR,FR,1
+367,2012-08-03 21:46:20,STB,,,FF,0
+368,2012-08-05 15:37:00,STA,,,FF,0
+369,2012-08-13 14:23:32,STA,F,ICME,FF,1
+370,2012-08-18 11:43:13,STA,F,in slow wind,,0
+371,2012-08-23 17:26:46,STB,F_ plasma signatures_ upstream and downstream waves,"in slow wind, more than one day ahead of an ICME",FF,1
+372,2012-08-29 06:35:22,STB,F_ plasma signatures_ sharp increase of suprathermal electron flux,ICME,FF,1
+373,2012-09-03 07:11:55,STB,F_ plasma signatures_ sharp increase of suprathermal electron flux_ upstream and downstream waves,ICME,FF,1
+374,2012-09-11 17:10:22,STA,F,ICME,,0
+375,2012-09-11 18:13:52,STA,F,ICME,FF,1
+376,2012-09-16 23:11:03,STA,F,ICME,FF,1
+377,2012-09-19 07:26:06,STB,F_ weak plasma signatures_ increase of suprathermal electron flux_ near current sheet,SIR,FF,1
+378,2012-09-19 21:45:46,STA,F,ICME,FF,1
+379,2012-09-21 22:35:46,STA,F,fast wind overtaking ICME,FF,1
+380,2012-09-23 08:45:32,STB,F_ plasma signatures_ sharp rise of suprathermal electron flux_ downstream waves,ICME,FF,1
+381,2012-09-23 14:28:45,STA,F,ICME,FF,1
+382,2012-09-24 16:30:41,STB,F_ plasma signatures_ sharp rise of suprathermal electron flux_ short upstream and downstream waves,possibly glancing of ICME,FF,1
+383,2012-09-24 23:48:38,STB,R_ no plasma signatures except Tp decrease_ weak change in suprathermal electron flux_ upstream waves,possibly glancing of ICME,,0
+384,2012-09-25 16:26:48,STB,F_ strong plasma signatures_ long upstream and downstream waves,ICME,FF,1
+385,2012-09-29 18:36:44,STA,F,slow wind,FF,1
+386,2012-09-30 07:54:33,STB,F_ plasma signatures_ many upstream and downstream waves_ upstream waves of ~1.6 Hz and propagate 24-30o with respect to B,SIR,FF,1
+387,2012-10-01 19:29:02,STA,R,slow wind,FR,1
+388,2012-10-05 02:51:26,STA,F,ICME,FF,1
+389,2012-10-11 01:46:01,STA,F,ICME,FF,1
+390,2012-10-12 00:18:10,STB,,,FF,0
+391,2012-10-17 06:57:21,STB,F_ clear plasma signatures_ a field dip and rotation downstream,ICME,FF,1
+392,2012-10-19 10:39:00,STA,,,FR,0
+393,2012-10-22 15:35:54,STA,F,ICME,FF,1
+394,2012-10-22 23:30:00,STA,F,ICME,FF,1
+395,2012-10-25 19:10:38,STB,F_ clear plasma signatures_ B dip for 6s downstream,ICME,FF,1
+396,2012-10-26 00:42:30,STA,F,ICME,FF,1
+397,2012-10-28 05:48:09,STA,F,slow wind,FF,1
+398,2012-10-31 07:28:45,STA,R,slow wind,,0
+399,2012-11-06 21:48:30,STA,F,slow wind,FF,1
+400,2012-11-10 22:30:03,STA,F,ICME,FF,1
+401,2012-11-11 13:36:08,STB,,,FF,0
+402,2012-11-11 21:19:21,STA,,,FF,0
+403,2012-11-12 13:49:24,STA,R,"inside ICME, at the start of the flux rope, due to interaction between 2 ICMEs ",,0
+404,2012-11-12 15:23:30,STA,R,"inside ICME, at the start of the flux rope, due to interaction between 2 ICMEs ",FR,1
+405,2012-11-13 20:57:03,STA,F,ICME,FF,1
+406,2012-11-19 09:50:05,STB,F_ many B fluctuations afterwards,ICME,FF,1
+407,2012-11-21 05:54:40,STB,R_ weak plasma signatures_ no clear Vp increase_ clear change in suprathermal electron distribution_ many upstream and downstream waves,"fast wind overtaking ICME, however, there is a period of slow wind after the ICME, so 17 hrs after ICME",,0
+408,2012-11-23 04:04:17,STA,F,14-hr before ICME,,0
+409,2012-11-23 18:27:37,STA,F,ICME,FF,1
+410,2012-11-26 07:57:49,STA,F,ICME,FF,1
+411,2012-11-28 03:36:19,STB,F_ strong plasma signatures_ change of suprathermal electron flux_ overshoot_ downstream waves,ICME,FF,1
+412,2012-12-06 03:40:58,STA,F,SIR,,0
+413,2012-12-11 03:21:00,STA,,,FF,0
+414,2012-12-17 16:58:24,STA,F,DG for event identification,FF,1
+415,2012-12-18 20:06:04,STB,F_ strong plasma signatures_ change of suprathermal electron flux_ oblique whistler waves upstream,"in slow wind, 28 hrs ahead of an ultra-low density region",FF,1
+416,2012-12-25 00:37:44,STB,F_ strong plasma signatures_ upstream and downstream waves,ICME,FF,1
+417,2012-12-25 06:33:05,STB,F_ clear plasma signatures_ strong change of suprathermal electron flux_ gradual increase of B_ weak downstream waves,ICME,FF,1
+418,2013-01-09 02:25:10,STA,F? plasma signatures although some of the changes are gradual_ B decreased wthin 1 min after the shock_ current sheet 15 ms apart_ downstream waves_ Mach number determined by case study,ICME,FF,1
+419,2013-01-13 17:02:44,STB,F_ Vp and Np increase_ rapid B increase_ downstream waves,SIR,FF,1
+420,2013-01-16 16:47:28,STB,F_ clear plasma signatures_ magnetic hole at 4 min before the shock,in slow wind,FF,1
+421,2013-01-25 00:14:12,STA,F? weak plasma signatures_ B decreased within 1 min and increased to post-shock scale in 2 min_ no upstream or downstream waves,ICME,FF,1
+422,2013-02-08 07:44:00,STA,F_ plasma signatures_ downstream waves,ICME,FF,1
+423,2013-02-18 03:06:56,STB,F_ clear plasma signatures_ downstream waves,ICME,FF,1
+424,2013-02-24 12:09:35,STB,R_ Vp increase_ Np and Tp do not change much_ B is weak,SIR,,0
+425,2013-02-28 21:14:33,STA,F_ prominent plasma signatures_ upstream and downstream waves,ICME,FF,1
+426,2013-03-04 04:05:15,STB,F_ plasma signatures_ large-scale waves at ramp and around the shock,"in slow wind, a small 4-hr flux rope after 2 hrs",,0
+427,2013-03-05 19:57:36,STB,F_ Tp increases slightly_ Np and Tp have DG before the event_ upstream waves ,SIR,,0
+428,2013-03-07 12:23:48,STB,F_ prominent plasma signatures_ short upstream waves,ICME,FF,1
+429,2013-03-08 02:20:15,STA,F_ plasma signatures_ upstream and downstream waves,ICME,FF,1
+430,2013-03-10 16:33:06,STB,R_ prominent plasma signatures_ very short upstream waves,fast wind overtakes ICME,FR,1
+431,2013-03-18 00:24:25,STB,F_ plasma signatures_ magnetic humps downstream,SIR,,0
+432,2013-03-26 02:45:43,STA,F_ plasma signatures_ downstream waves,ICME,FF,1
+433,2013-03-27 16:10:40,STA,,,FF,0
+434,2013-03-30 05:14:22,STA,F_ weak plasma signatures_ prompt and small rise of B,in slow wind,,0
+435,2013-04-08 08:41:30,STA,R_ plasma signatures_ downstream waves,SIR,FR,1
+436,2013-04-09 06:40:42,STB,F_ Vp increases slightly_ DG of Np and Tp before the shock_ downstream waves,SIR,,0
+437,2013-04-16 15:36:37,STA,F_ prominent plasma signatures_ downstream waves,ICME,FF,1
+438,2013-04-19 14:19:14,STA,R_ weak plasma signatures_ upstream waves,SIR,FR,1
+439,2013-04-22 10:08:20,STA,F_ prominent plasma signatures_ a few upstream and downstream waves,ICME,FF,1
+440,2013-04-27 01:09:57,STB,F_ clear plasma signatures_ change of suprathermal electron flux,ICME,FF,1
+441,2013-04-27 04:19:44,STA,F_ prominent plasma signatures_ upstream and downstream waves,ICME,FF,1
+442,2013-04-27 23:32:15,STA,F_ plasma signatures_ a B dip after the shock,ICME,FF,1
+443,2013-04-28 19:38:12,STB,F_ clear plasma signatures_ upstream and downstream waves,ICME,FF,1
+444,2013-04-30 04:17:41,STA,F_ plasma signatures_ upstream waves,SIR,FF,1
+445,2013-05-01 03:52:03,STA,,,FR,0
+446,2013-05-02 21:02:27,STA,F_ prominent plasma signatures_ upstream and downstream waves_ amplified at the ramp,ICME,FF,1
+447,2013-05-04 04:52:47,STB,F_ prominent plasma signatures_ downstream waves,ICME,FF,1
+448,2013-05-06 06:36:37,STA,F_ weak plasma signatures_ few downstream waves,SIR,FF,1
+449,2013-05-07 04:37:08,STB,F_ Vp and Tp increase_ not much increase of Np_ upstream waves,ICME,FF,1
+450,2013-05-12 23:30:46,STA,F_ weak plasma signatures_ downstream waves,ICME,FF,1
+451,2013-05-15 13:34:54,STB,F_ plasma signatures_ upstream and downstream waves_ a B dip and current sheet downstream,ICME,FF,1
+452,2013-05-16 05:22:35,STA,F_ weak plasma signatures_ upstream and downstream waves_ including at the ramp,SIR,,0
+453,2013-05-16 09:42:43,STA,F_ prominent plasma signatures_ near HCS_ downstream waves,SIR,FF,1
+454,2013-05-17 00:05:35,STA,R_ weak plasma signatures_ upstream and downstream waves,SIR,FR,1
+455,2013-05-17 02:54:01,STB,F_ prominent plasma signatures_ waves at ramp and downstream,ICME,FF,1
+456,2013-05-23 22:21:18,STB,R_ plasma signatures_ upstream and downstream waves_ a B dip and current sheet downstream,SIR,FR,1
+457,2013-05-24 06:51:46,STA,F_ weak plasma signatures_ downstream waves,in slow wind,FF,1
+458,2013-05-25 06:05:08,STA,F_ plasma signatures_ downstream waves_ Mach number determined by case study,ICME,FF,1
+459,2013-05-26 00:53:13,STB,,,FF,0
+460,2013-05-30 03:07:29,STB,,,FF,0
+461,2013-05-30 20:25:00,STB,F_ prominent plasma signatures_ upstream and downstream waves_ upstream waves lasted ~ 1 hr,SIR,FF,1
+462,2013-06-02 06:09:10,STB,F_ Vp and Np increase_ upstream and downstream waves especially large-amplitude waves right after shock,ICME,FF,1
+463,2013-06-03 17:12:30,STA,R_ plasma signatures_ downstream waves,SIR,FR,1
+464,2013-06-10 08:45:58,STA,F_ very weak plasma signatures_ little increase of Tp_ little increase of B_ waves lasted long upstream and downstream,SIR,,0
+465,2013-06-11 03:37:16,STA,R_ plasma signatures_ downstream waves,SIR,FR,1
+466,2013-06-11 14:04:50,STA,R_ little increase of V_ weak plasma signatures_ shock ramp lasted 20 ms_ waves upstream_ downstream and at the ramp,SIR,,0
+467,2013-06-20 02:47:05,STB,F_ clear plasma signatures_ upstream and downstream waves,ICME,FF,1
+468,2013-06-26 13:18:44,STB,F_ small increases of Vp_ Np_ and Tp_ upstream and downstream waves,SIR,,0
+469,2013-06-27 16:17:42,STA,F_ prominent plasma signatures_ upstream and downstream waves,ICME,FF,1
+470,2013-07-05 07:04:30,STB,F_ prominent plasma signatures_ upstream and downstream waves,ICME,FF,1
+471,2013-07-15 22:20:03,STB,F_ weak plasma signatures with small increases,SIR,,0
+472,2013-07-25 06:12:48,STA,F_ prominent plasma sigantures_ sharp rise of suprathermal electron flux_ fluctuations downstream_ Mach number is 2 using V&S method,ICME,FF,1
+473,2013-07-25 07:02:12,STA,,,FF,0
+474,2013-07-25 07:52:14,STB,F_ plasma signatures_ B fluctuates downstream for 1 hr,13 hr before SIR,FF,1
+475,2013-07-27 18:53:50,STA,,,FF,0
+476,2013-08-04 13:42:51,STA,F_ weak plasma signatures_ gradual change of B_ intermittent LFWs at the two sides,SIR,FF,1
+477,2013-08-05 09:21:41,STB,F_ clear plasma signatures_ upstream and downstream waves,SIR,FF,1
+478,2013-08-10 09:18:03,STA,F_ clear plasma signatures_ rise of suprathermal e flux_ upstream and downstream waves ,ICME,FF,1
+479,2013-08-11 14:49:21,STB,R_ plasma signatures_ upstream and downstream waves,SIR,FR,1
+480,2013-08-12 13:46:00,STA,F_ prominent plasma signatures_ waves upstream and at ramp,SIR,FF,1
+481,2013-08-18 14:42:09,STA,F_ weak plasma signatures_ downstream waves,slow wind,FF,1
+482,2013-08-22 02:09:49,STB,F_ plasma signatures_ upstream and downstream waves,ICME,FF,1
+483,2013-08-22 07:05:50,STA,F_ plasma signatures_ downstream waves,ICME,FF,1
+484,2013-09-02 02:20:00,STA,F_ plasma signatures_ LFWs lasted long ,SIR,FF,1
+485,2013-09-03 15:50:33,STB,F_ clear plasma signatures_ B dip and current sheet downstream,ICME,FF,1
+486,2013-09-07 22:02:22,STB,F_ plasma signatures_ upstream and downstream waves_ BDE upstream,ICME-like structure,FF,1
+487,2013-09-09 14:32:11,STB,F_ clear plasma signatures_ upstream and downstream waves,ICME,FF,1
+488,2013-09-10 11:09:56,STA,F_ weak plasma signatures_ rise and diffusion of suprathermal e flux,slow wind,,0
+489,2013-10-04 04:28:16,STA,F_ weak plasma signatures_ rise of suprathermal e flux,ICME,,0
+490,2013-10-08 04:54:47,STB,F_ clear plasma signatures_ upstream and downstream waves,ICME,FF,1
+491,2013-10-12 17:09:28,STB,F_ small increases of Vp and Np_ waves at ramp and long-lasting upstream,in slow wind,,0
+492,2013-10-15 15:52:45,STB,F_ small increases of Vp_ Np_ and Tp_ gradual increase of B_ upstream and downstream waves,in slow wind,,0
+493,2013-10-21 12:54:34,STA,F_ weak plasma signatures_ upstream and downstream waves,slow wind,,0
+494,2013-10-21 18:23:10,STB,F_ clear plasma signatures_ gradual increase of B_ magnetic humps at the ramp_ questionable shock,ICME,,0
+495,2013-10-26 02:25:15,STA,R_ weak plasma signatures_ waves upstream and at ramp,SIR,FR,1
+496,2013-10-29 13:27:41,STB,F_ plasma signatures_ upstream and downstream waves,in slow wind,FF,1
+497,2013-11-01 10:55:16,STA,F_ plasma signatures_ weak upstream and downstream waves_ a direction change of By 15 s downstream,ICME,FF,1
+498,2013-11-04 08:57:25,STA,F_ prominent plasma signatures_ short upstream waves,ICME,FF,1
+499,2013-11-05 02:43:25,STB,F_ prominent plasma signatures_ downstream waves,ICME,FF,1
+500,2013-11-05 22:24:10,STA,F_ weak and transient plasma signatures_ upstream waves_ increase of suprathermal e flux,"SIR overtaking ICME, there is a residual of CME in the trailing part of the fast wind",,0
+501,2013-11-05 23:53:09,STA,F_ clear plasma signatures_ short downstream waves ,SIR overtaking ICME,,0
+502,2013-11-06 02:00:26,STB,F_ plasma signatures_ downstream waves_ coincides with a current sheet,ICME,FF,1
+503,2013-11-06 13:37:43,STB,,,FR,0
+504,2013-11-08 13:28:35,STB,F_ plasma DG_ upstream and downstream waves_ a B dip and current sheet downstream,ICME,,0
+505,2013-11-10 00:26:00,STA,F_ plasma signatures_ gradual increase of B,in the trailing part of fast wind,FF,1
+506,2013-11-11 10:31:52,STA,F_ plasma signatures_ downstream waves,ICME,FF,1
+507,2013-11-13 17:00:55,STA,F_ Vp increases_ DG of Np and Tp at the shock_ upstream waves,ICME,FF,1
+508,2013-11-14 05:50:48,STA,F_ clear plasma signatures_ B decreased 1 min after the shock_ many fluctuations upstream and downstream,ICME,,0
+509,2013-11-18 18:24:00,STA,F_ Np and Tp spikes downstream_ upstream and downstream waves,ICME,FF,1
+510,2013-11-20 23:52:07,STA,F_ clear plasma signatures_ downstream waves,SIR,,0
+511,2013-11-22 18:38:30,STA,,,FR,0
+512,2013-11-24 03:51:30,STA,F_ plasma signatures_ intermittent fluctuations during 1 hr around the shock,in the trailing part of fast wind,,0
+513,2013-12-01 22:29:46,STA,F_ prominent plasma signatures_ overshoot_ downstream waves,ICME,FF,1
+514,2013-12-08 18:22:41,STB,F_ prominent plasma signatures_ upstream and downstream waves,ICME,FF,1
+515,2013-12-14 14:24:14,STB,F_ small increases of Vp and Np_ upstream and downstream waves,15 hrs before SIR,,0
+516,2013-12-15 01:08:09,STB,F_ clear plasma signatures_ upstream and downstream waves,SIR,FF,1
+517,2013-12-17 13:29:41,STB,F_ prominent plasma signatures_ upstream waves_ a B dip and current sheet downstream,ICME,FF,1
+518,2013-12-17 16:07:44,STA,R_ clear plasma signatures_ upstream and downstream waves,SIR,FR,1
+519,2013-12-22 00:09:44,STB,F_ clear plasma signatures_ upstream waves_ coincides with a current sheet,SIR,FF,1
+520,2013-12-24 20:06:47,STA,F_ weak plasma signatures ,SIR with an embedded ICME,,0
+521,2013-12-24 22:18:38,STA,F_ weak plasma signatures,"SIR with an embedded ICME, 13 hr ahead of ICME",FF,1
+522,2013-12-26 05:04:12,STA,R_ weak plasma signatures_ downstream waves,SIR with an embedded ICME,FR,1
+523,2013-12-28 17:06:36,STB,F_ prominent plasma signatures_ many fluctuations downstream,ICME,FF,1
+524,2013-12-29 03:39:05,STA,F_ weak plasma signatures_ fluctuations last long time around the shock,"SIR, at the trailing edge of ICME",FF,1
+525,2013-12-29 07:15:51,STA,F_ plasma signatures_ upstream and downstream waves,SIR,FF,1
+526,2013-12-30 17:39:56,STB,,,FR,0
+527,2013-12-30 21:58:01,STB,F_ plasma signatures_ upstream waves lasted 4 min_ downstream waves_ a current sheet 10-min downstream,fast wind overtakes ICME,FF,1
+528,2013-12-31 13:31:40,STA,F_ plasma signatures_ a short B dip after the shock,ICME,,0
+529,2014-01-09 13:17:36,STA,F_ 2-min plasma DG at the shock_ plasma signatures_ extensive upstream and downstream waves ,ICME embedded within SIR,FF,1
+530,2014-01-12 19:11:41,STA,F_ plasma signatures_ waves upstream and downstream,in the declining part of fast wind,,0
+531,2014-01-14 23:59:09,STA,F_ 3-min plasma DG at the shock_ nice waves upstream and downstream ,in ICME,,0
+532,2014-01-17 10:52:22,STA,F_ weak plasma signatures,in slow wind,,0
+533,2014-01-20 19:21:50,STA,F_ plasma signatures_ moderate-amplitude waves upstream and downstream,  front edge of SIR,FF,1
+534,2014-01-22 15:14:30,STA,F_ plasma signatures,within SIR,FF,1
+535,2014-01-24 07:13:45,STB,F_ prominent plasma signatures_ fluctuations at the foot,SIR including an ICME,FF,1
+536,2014-01-24 14:14:54,STB,F_ plasma signatures_ magnetic humps upstream and downstream,ICME,,0
+537,2014-01-26 11:42:19,STB,R_ weak plasma signatures_ downstream waves,SIR including an ICME,FR,1
+538,2014-01-29 05:19:50,STB,F_ plasma signatures_ upstream waves of two frequencies_ large-amplitude downstream waves,ICME,FF,1
+539,2014-01-29 18:13:27,STA,F_ clear plasma signatures_ sharp increase of suprathermal e flux_ waves upstream and at the foot,ICME,FF,1
+540,2014-02-01 06:19:28,STA,F_ weak plasma signatures_ upstream waves last long,in slow wind,FF,1
+541,2014-02-01 15:58:36,STB,,,FF,0
+542,2014-02-02 00:18:17,STA,F_ plasma signatures,ICME,FF,1
+543,2014-02-05 03:27:37,STA,F_ plasma signatures_ downstream waves,ICME,FF,1
+544,2014-02-06 12:03:03,STB,F_ prominent plasma signatures_ downstream waves,ICME,,0
+545,2014-02-07 20:59:03,STA,F_ clear plasma signatures_ increase of suprathermal e flux_ waves upstream and downstream,ICME,FF,1
+546,2014-02-08 10:39:24,STB,F_ plasma signatures_ upstream waves of two frequencies_ large-amplitude downstream waves,faster wind overtaking ICME,FF,1
+547,2014-02-12 12:15:52,STB,F_ plasma signatures_ Np and Tp DG for 2 min_ waves at foot and upstream,SIR,FF,1
+548,2014-02-13 12:47:46,STB,F_ plasma signatures_ upstream coherent waves,within SIR,FF,1
+549,2014-02-15 05:50:04,STA,F_ weak plasma signatures_ abrupt B increase_ downstream waves,leading SIR with ICME embedded ,,0
+550,2014-02-16 07:50:14,STA,F_ 3-min plasma DG upstream_ upstream waves_ B spike at the ramp_ Mach number needs further check,ICME replacing fast wind in SIR,FF,1
+551,2014-02-21 07:17:00,STB,F? plasma signatures_ e flux increases_ no B data,ICME,,0
+552,2014-02-22 08:00:03,STA,F_ plasma signatures_ short upstream waves,ICME,FF,1
+553,2014-02-22 08:10:00,STB,F? plasma signatures_ e flux increases_ no B data,fast wind overtaking ICME,,0
+554,2014-02-22 23:06:24,STA,F_ plasma signatures_ upstream and downstream waves,ICME,FF,1
+555,2014-02-25 12:15:56,STA,F_ plasma signatures_ gradual increase of B_ small-amplitude downstream waves_ sharp change of suprathermal e flux,ICME,FF,1
+556,2014-02-27 20:46:45,STA,F_ plasma signatures_ low frequency waves upstream and downstream,ICME,FF,1
+557,2014-02-28 04:23:15,STB,F_ plasma signatures_ waves at foot and downstream_ overshoot,ICME,FF,1
+558,2014-03-07 18:35:13,STA,F_ weak plasma signatures_ sharp rise of suprathermal e flux,ICME replacing fast wind in SIR,FF,1
+559,2014-03-08 04:41:57,STB,F_ plasma signatures_ large-amplitude downstream waves,ICME,FF,1
+560,2014-03-11 09:37:10,STA,F_ plasma signatures_ downstream waves,ICME,FF,1
+561,2014-03-12 09:14:56,STB,,,FF,0
+562,2014-03-14 16:37:40,STA,F_ plasma signatures_ change in suprathermal e flux_ gradual rise of B_ waves upstream and at the ramp,ICME in fast wind of SIR,FF,1
+563,2014-03-14 23:10:18,STB,F_ prominent plasma signatures_ 12-s ramp,ICME,FF,1
+564,2014-03-15 17:03:01,STB,,,FR,0
+565,2014-03-30 06:20:38,STB,F_ weak plasma signatures_ upstream and downstream waves,within SIR,,0
+566,2014-03-30 21:38:04,STA,F_ plasma signatures_ rise of suprathermal e flux_ step rise of B_ upstream and downstream waves_ B dips downstream,ICME,FF,1
+567,2014-04-01 04:53:36,STB,F_ prominent plasma signatures_ large-amplitude waves at foot and upstream_ waves of lower frequency futher upstream,ICME,FF,1
+568,2014-04-08 22:51:35,STA,F_ weak plasma signatures_ change of suprathermal e flux_ upstream waves,"in slow wind, 14 hrs ahead of ICME",FF,1
+569,2014-04-09 13:07:45,STA,F_ plasma signatures_ upstream and downstream waves_ not much change in suprathermal e flux,ICME,FF,1
+570,2014-04-09 22:20:41,STA,,,FR,0
+571,2014-04-11 15:24:02,STA,F_ extensive upstream and downstream waves,ICME,FF,1
+572,2014-04-12 02:27:41,STB,F_ prominent plasma signatures and increase of suprathermal e flux_ upstream and downstream fluctuations_ B decreases soon after,ICME,FF,1
+573,2014-04-25 17:15:11,STA,R_ weak plasma signatures_ weak downstream waves,SIR,,0
+574,2014-05-08 01:37:30,STB,F_ weak plasma signatures_ B increases gradually for 1 min,ICME,FF,1
+575,2014-05-10 13:26:41,STA,F_ plasma signatures_ V increase > 50 km/s_ upstream and downstream waves last short,"in slow wind, 1 day ahead of ICME",FF,1
+576,2014-05-11 12:33:49,STA,F_ plasma signatures,ICME,FF,1
+577,2014-05-13 13:45:19,STB,F_ plasma signatures_ upstream and downstream waves,SIR,FF,1
+578,2014-06-05 10:52:04,STB,F_ plasma signatures_ upstream waves,SIR,FF,1
+579,2014-06-09 01:18:41,STB,F_ weak plasma signatures_ downstream waves,ICME,FF,1
+580,2014-06-09 09:30:27,STA,F_ plasma signatures_ upstream and downstream waves last long,ICME,FF,1
+581,2014-06-09 12:50:02,STA,F_ plasma signatures,ICME,FF,1
+582,2014-06-10 17:10:02,STB,F_ weak plasma signatures_ upstream waves,fast wind overtaking ICME,FF,1
+583,2014-06-11 00:14:42,STA,F_ plasma signatures_ upstream and downstream waves,ICME,FF,1
+584,2014-06-13 18:59:51,STB,F_ plasma signatures_ upstream and downstream waves,slow wind,FF,1
+585,2014-06-16 18:52:47,STB,F_ plasma signatures_ near a current sheet_ downstream waves,within SIR,,0
+586,2014-06-27 18:27:24,STB,F_ plasma signatures_ upstream and downstream waves,ICME,FF,1
+587,2014-06-27 21:58:06,STA,F_ weak plasma signatures,1 day before a SIR with ICME embedded,FF,1
+588,2014-07-01 12:51:28,STB,F_ weak plasma signatures_ large-amplitude waves at foot and downstream,ICME,FF,1
+589,2014-07-02 00:34:45,STB,R_ plasma signatures_ Np and Tp DG upstream_ upstream and downstream waves,within ICME+SIR,,0
+590,2014-07-02 18:48:23,STB,F_ prominent plasma signatures_ waves at the ramp,fast wind overtaking ICME+SIR,FF,1
+591,2014-07-04 15:31:07,STB,F_ plasma signatures,"in the trailing part of fast wind, more than 1.5 days after ICME+SIR",FF,1
+592,2014-07-04 16:54:24,STA,F_ plasma signatures_ upstream and downstream waves,SIR with ICME embedded,FF,1
+593,2014-07-12 17:19:11,STA,F_ prominent plasma signatures_ upstream and downstream waves,ICME,FF,1
+594,2014-07-27 09:47:54,STA,F_ plasma signatures_ downstream waves,SIR,FF,1
+595,2014-07-29 19:40:54,STB,F_ weak plasma signatures_ downstream waves,12 hr ahead of SIR,,0
+596,2014-08-06 12:35:42,STB,F_ plasma signatures_ downstream waves_ gradual change of B,SIR,FF,1
+597,2014-08-08 21:09:10,STB,F_ weak plasma signatures_ gradual increase of B over 30s,SIR,,0
+598,2014-08-11 09:03:25,STA,F_ prominent plasma signatures_ intense upstream and downstream waves,ICME,FF,1
+599,2014-08-16 06:07:21,STB,F_ weak plasma signatures_ downstream waves,in slow wind,,0
+600,2014-08-16 17:53:28,STB,F_ weak plasma signatures,in slow wind,,0
+601,2014-08-24 11:10:01,STB,F_ weak plasma signatures_ large-amplitude waves upstream,SIR,,0
+602,2014-08-31 17:45:04,STB,F_ plasma signatures_ upstream and downstream fluctuations,ICME,FF,1
+603,2014-09-03 07:45:19,STB,F_ Np DG_ fluctuations at foot and downstream ,ICME,,0
+604,2014-09-04 06:07:25,STB,F_ weak plasma signatures_ upstream and downstream waves,within ICME,,0
+605,2014-09-25 05:34:15,STB,F_ plasma signatures_ waves at foot and downstream,ICME,FF,1
+606,2014-09-25 14:09:54,STB,F_ prominent plasma signatures_ many magnetic holes downstream,ICME,FF,1
+607,2014-09-25 17:06:07,STB,F_ Vp and Np increase_ B sharp increase,ICME,FF,1
+608,2014-09-25 20:38:51,STA,F_ large upstream waves_ plasma signatures_ a short data gap upstream,fast wind overtake an ICME,,0
+609,2014-09-26 16:32:46,STB,F? plasma DG_ upstream and downstream waves,at the trailing edge of ICME,,0
+610,2014-10-16 20:05:03,STA,F_ small upstream waves_ few plasma signatures,ICME,,0
+611,2014-10-16 20:11:43,STA,F_ sharp B rise_ prominent plama signatures,ICME,FF,1
+612,2015-11-19 06:46:36,STA,R_ weak plasma signatures_ Bz crosses 0 30s away from the shock,SIR,,0
+613,2015-12-01 13:37:52,STA,F_ plasma signatures_ upstream waves,SIR with an ICME embedded,,0
+614,2015-12-07 17:33:02,STA,F_ plasma signatures_ upstream and downstream waves,a bump in slow wind,,0
+615,2016-01-09 18:08:20,STA,F_ plasma signatures_ upstream and downstream waves,ICME,,0
+616,2016-01-18 06:43:25,STA,R_ plasma signatures_ a current sheet within 1 min,SIR,,0
+617,2016-02-12 18:28:02,STA,R_ weak plasma signatures_ downstream waves,SIR,,0
+618,2016-03-13 17:40:34,STA,F_ prominent plasma signatures_ downstream waves,ICME,,0
+619,2016-04-15 01:26:00,STA,F_ plasma signatures_ sharp B rise_ downstream waves,ICME,,0
+620,2016-04-27 09:07:30,STA,F_ weak plasma signatures_ waves_ 15 s for ramp_ current sheets within 2 min,SIR,,0
+621,2016-05-14 21:23:37,STA,F_ weak plasma signatures_ small amplitude waves,SIR,,0
+622,2016-05-24 12:38:33,STA,R_ weak plasma signatures_ downstream waves,SIR,,0
+623,2016-06-24 12:34:50,STA,F_ clear plasma signatures_ 15 s for ramp,SIR,,0
+624,2016-07-02 20:48:54,STA,F_ prominent plasma signatures except 3 plasma data points are missing at the ramp_ upstream and downstream waves,ICME,,0
+625,2016-07-05 10:09:27,STA,F_ plasma signatures_ upstream and downstream waves,faster wind overtaking ICME,,0
+626,2016-07-22 23:12:12,STA,R_ prominent plasma signatures_ upstream and downstream waves,SIR,,0
+627,2016-08-03 17:11:28,STA,F_ plasma signatures_ downstream waves,SIR,,0
+628,2016-08-04 08:24:27,STA,R_ plasma signatures_ downstream waves,SIR,,0
+629,2016-08-18 21:37:01,STA,F_ V and Tp increase_ a small increase of B_ a small B dip downstream,inside SIR,,0
+630,2016-09-01 05:16:14,STA,R_ plasma signatures_ downstream waves,SIR,,0
+631,2016-09-19 12:26:06,STA,R_ weak plasma signatures ,"in fast wind, 1 day after SIR",,0
+632,2016-09-27 14:00:02,STA,F_ prominent plasma signatures_ upstream and downstream waves of different frequencies,SIR,,0
+633,2016-09-28 02:15:55,STA,R_ plasma signatures_ upstream and downstream waves,SIR,,0
+634,2016-10-14 03:33:48,STA,F_ slight increases of V and Np_ upstream and downstream waves last short,SIR,,0
+635,2016-10-29 01:04:44,STA,F_ weak plasma signatures_ long-lasting waves in T and N components,SIR+ICME,,0
+636,2016-11-07 21:43:10,STA,F_ weak plasma signatures,SIR,,0
+637,2016-11-13 17:33:50,STA,R_ plasma signatures_ waves at the ramp,SIR,,0
+638,2016-12-03 07:38:38,STA,F_ slight increases of V and Np_ waves throughout the shock_ higher frequency ones at the ramp,"about 9 hours ahead of SIR, count as SIR",,0
+639,2016-12-19 16:54:46,STA,F_ prominent plasma signatures_ downstream waves,in slow wind,,0
+640,2017-01-03 15:45:15,STA,R_ weak plasma signatures_ B decreases gradually_ whistler waves and upstream waves,SIR,,0
+641,2017-01-18 09:15:57,STA,F_ moderate plasma signatures_ current sheet with mirror mode waves occurs 1 min after the B jump,SIR,,0
+642,2017-01-19 05:10:20,STA,R_ prominent plasma signatures_ clear change in pitch angle distribution of suprathermal e flux_ large-amplitude waves throughout the shock,SIR,,0
+643,2017-03-24 16:22:51,STA,F_ prominent plasma signatures_ clear change in pitch angle distribution of suprathermal e flux_ large-amplitude waves throughout the shock,ICME,,0
+644,2017-04-11 20:20:00,STA,F_ weak plasma signatures_ B increases gradually_ upstream and downstream waves,SIR,,0
+645,2017-04-19 09:25:04,STA,F_ weak plasma signatures_ upstream waves,SIR,,0
+646,2017-05-04 21:01:27,STA,F_ weak plasma signatures_ sharp rise of B_ downstream waves,SIR,,0
+647,2017-05-09 10:30:38,STA,F_ prominent plasma signatures_ clear change in pitch angle distribution of suprathermal e flux_ long-period downstream waves,SIR,,0
+648,2017-05-10 02:20:33,STA,R_ weak plasma signatures_ downstream waves,SIR,,0
+649,2017-05-22 17:22:19,STA,F_ weak plasma signatures_ upstream and downstream waves,"in slow wind, 0.5-day ahead of SIR",,0
+650,2017-06-20 08:38:00,STA,F_ clear plasma signatures_ weak upstream and downstream waves,"in slow wind, increase of Q_Fe about 1 day later",,0
+651,2017-07-16 19:39:29,STA,F_ clear plasma signatures_ weak upstream and downstream waves,SIR,,0
+652,2017-07-24 13:22:41,STA,F_ plasma signatures except Np_ upstream and downstream waves,ICME,,0
+653,2017-07-24 14:36:31,STA,F_ plasma signatures_ waves at the foot and downstream,ICME,,0
+654,2017-07-25 07:03:46,STA,R_ no clear plasma signatures_ upstream and downstream waves,ICME,,0
+655,2017-07-28 00:19:37,STA,F_ weak plasma signatures_ upstream and downstream waves,in intermediate-speed solar wind,,0
+656,2017-07-28 19:45:45,STA,F_ plasma signatures,in intermediate-speed solar wind,,0
+657,2017-09-13 16:50:02,STA,F_ plasma signatures_ upstream and downstream waves,SIR,,0
+658,2017-09-19 02:56:25,STA,F_ prominent plasma signatures_ upstream and downstream waves,ICME,,0
+659,2017-09-20 00:50:18,STA,plasma signatures_ upstream and downstream waves,"within ICME, faster solar wind overtaking slower part",,0
+660,2017-09-21 13:34:47,STA,weak plasma signatures_ 5 min before HCS,in fast wind,,0
+661,2017-10-09 01:10:25,STA,weak plasma signatures_ upstream and downstream waves,in slow wind,,0
+662,2017-10-15 07:49:16,STA,weak plasma signatures,SIR,,0
+663,2017-10-15 22:47:31,STA,plasma signatures,SIR,,0
+664,2017-10-21 03:24:57,STA,clear plasma signatures_ downstream waves,ICME,,0
+665,2017-11-17 21:53:07,STA,clear plasma signatures_ downstream waves,SIR,,0
+666,2017-11-18 12:23:48,STA,weak plasma signatures_ downstream waves,in fast wind,,0
+667,2018-01-17 17:39:31,STA,clear plasma signatures_ upstream and downstream waves,SIR,,0
+668,2018-03-15 21:52:56,STA,weak plasma signatures_ upstream waves,SIR,,0
+669,2018-04-03 05:30:27,STA,plasma signatures,SIR,,0
+670,2018-04-11 03:09:44,STA,weak plasma signatures_ upstream and downstream waves,SIR,,0
+671,2018-04-11 08:11:14,STA,plasma signatures_ magnetic humps further downstream,SIR,,0
+672,2018-04-19 01:14:21,STA,weak plasma signatures_ downstream waves,SIR,,0
+673,2018-04-22 08:03:06,STA,weak plasma signatures,SIR,,0
+674,2018-05-23 12:49:57,STA,weak plasma signatures_ 1-min ahead of a current sheet,SIR,,0
+675,2018-07-02 16:42:40,STA,weak plasma signatures_ B decreases graudally with upstream and downstream waves,in intermediate-speed (400 km/s) solar wind after a increase of V for 9 hr,,0
+676,2018-07-12 05:33:10,STA,weak plasma signatures_ whistler waves at the ramp,SIR,,0
