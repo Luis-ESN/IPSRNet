@@ -42,7 +42,7 @@ class IPSR20N():
             Output array with probability of each class for the sample. 
             The array follows the format [Prob Neg, Prob FF, Prob FR]
         """
-        image = load_image(image_path, target_size=(299,299))
+        image = np.array([load_image(image_path, target_size=(299,299))])
         processedimage = inceptionV3_preprocess(image)
         featureMap = np.array(self.deepmodel.predict(processedimage, verbose=0))
         output = self.finalmodel.predict(featureMap, verbose=0)[0]
@@ -112,7 +112,7 @@ class IPSR60N():
             Output array with probability of each class for the sample. 
             The array follows the format [Prob Neg, Prob FF, Prob FR]
         """
-        image = load_image(image_path, target_size=(224,224))
+        image = np.array([load_image(image_path, target_size=(224,224))])
         processedimage = image/255
         featureMap = np.array(self.deepmodel.predict(processedimage, verbose=0))
         output = self.finalmodel.predict(featureMap, verbose=0)[0]
@@ -146,7 +146,7 @@ class IPSR120N():
             Output array with probability of each class for the sample. 
             The array follows the format [Prob Neg, Prob FF, Prob FR]
         """
-        image = load_image(image_path, target_size=(256,256))
+        image = np.array([load_image(image_path, target_size=(256,256))])
         
         processedimage = np.zeros_like(image, dtype=np.float32)
         with np.load('painters_preprocessing_stats.npz') as stats:
