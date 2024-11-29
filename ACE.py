@@ -7,7 +7,6 @@ Created on Thu Nov 21 12:32:20 2024
 
 import matplotlib.pyplot as plt
 import os
-#import numpy as np
 #import pandas as pd
 from matplotlib.ticker import MaxNLocator
 import cv2
@@ -15,7 +14,6 @@ from datetime import datetime, timedelta
 from sunpy.net import Fido
 from sunpy.net import attrs as a
 from sunpy.timeseries import TimeSeries
-
 
 # Define Methods to download STEREO data
 def Get_ACE_data(start, end):
@@ -44,7 +42,7 @@ def Get_ACE_data(start, end):
     result = Fido.search(trange, dataset)
     
     downloaded_files = Fido.fetch(result, progress=False)
-    IMF = TimeSeries(downloaded_files)
+    IMF = TimeSeries(downloaded_files, concatenate=True)
     IMF_df = IMF.to_dataframe()
     IMF_df = IMF_df.asfreq(freq='64s')
     IMF_df = IMF_df.loc[start:end]
@@ -56,7 +54,7 @@ def Get_ACE_data(start, end):
     result = Fido.search(trange, dataset)
     
     downloaded_files = Fido.fetch(result, progress=False)
-    plasma = TimeSeries(downloaded_files)
+    plasma = TimeSeries(downloaded_files, concatenate=True)
     plasma_df = plasma.to_dataframe()
     plasma_df = plasma_df.asfreq(freq='64s')
     plasma_df = plasma_df.loc[start:end]
@@ -85,8 +83,7 @@ def plot_ACE(df_b, df_p, s, e, folder_to_save):
         e : datetime
             End time of observed period.
         folder_to_save : string
-            filename to which the image is saved. 
-            A .png extension will be appended to the filename.
+            filename to which the image is saved.
             
         Returns
         -------
@@ -131,17 +128,17 @@ def plot_ACE(df_b, df_p, s, e, folder_to_save):
     ax4_plt.tick_params(bottom=False, labelbottom=False)
     ax4_plt.tick_params(axis='y', labelsize=5, pad=0.5, length=1, width=0.25)
     
-    fig.savefig(folder_to_save+'.png', format='png', bbox_inches='tight', dpi=512)
+    fig.savefig(folder_to_save, format='png', bbox_inches='tight', dpi=512)
     plt.cla()
     plt.close('all')
     
     #opencv
-    image = cv2.imread(folder_to_save+'.png')
+    image = cv2.imread(folder_to_save)
     image = cv2.resize(image, (2048, 2048), interpolation=cv2.INTER_CUBIC)
     
-    if os.path.exists(folder_to_save+'.png'):
-        os.remove(folder_to_save+'.png')
-    cv2.imwrite(folder_to_save+'.png', image)
+    if os.path.exists(folder_to_save):
+        os.remove(folder_to_save)
+    cv2.imwrite(folder_to_save, image)
 
 
 def ACE(shock_date, folder_to_save, time_window=15):
@@ -156,9 +153,10 @@ def ACE(shock_date, folder_to_save, time_window=15):
             If shock_date is a string must be in the format "%Y-%m-%d %H:%M:%S".
         folder_to_save : string
             filename to which the image is saved. 
-        time_window : int, optional (default=15)
+        time_window : int, optional
             Duration of observation time for the interplanetary shock wave, 
-            covering both upstream and downstream parameters.
+            covering both upstream and downstream parameters. 
+            The default is 15.
             
             
         Returns
